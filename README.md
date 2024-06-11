@@ -18,4 +18,4 @@ This repository contains resources and projects related to various research topi
 
 *Happy Researching!*
 
-![Research Repository](https://example.com/banner-image)
+![Research Repository]([https://example.com/banner-image](https://github.com/siddhantbhattarai/Awesome_Thesis_Ideas/blob/main/README.md)
